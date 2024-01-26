@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @d3codead.
+- 🙋🏻‍♂️ Hi, I’m @d3codead.
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning C & C++.
-- ⚡ Fun fact: I love Fasgion & Design.
+- 🧠 I’m currently learning C & C++.
+- 💭 Fun fact: I love Fashion & Design.
 
 <!---
 d3codead/d3codead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
